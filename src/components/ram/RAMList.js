@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-
+import spinner from '../ram/802.gif';
 import RAMCard from './RAMCard';
 
 export default class RAMList extends Component {
@@ -33,7 +33,9 @@ export default class RAMList extends Component {
                         ))}
                     </div>
                 ) : (
-                        <h1>Loading...</h1>
+                        <h1>
+                            <img src={spinner} style={{ width: '3em', height: '3em' }} alt="Loading..." className="card-img-top rounded mx-auto d-block mt-2"></img>
+                        </h1>
                     )}
             </React.Fragment>
         );
