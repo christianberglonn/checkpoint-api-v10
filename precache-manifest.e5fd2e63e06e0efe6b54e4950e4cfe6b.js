@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/checkpoint-api-v10/static/js/runtime~main.41fee87f.js"
   },
   {
-    "revision": "c81744583950417fc9ab",
+    "revision": "d4c69365569c661b97c0",
     "url": "/checkpoint-api-v10/static/js/main.faeeed46.chunk.js"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/checkpoint-api-v10/static/js/2.b8364f69.chunk.js"
   },
   {
-    "revision": "c81744583950417fc9ab",
-    "url": "/checkpoint-api-v10/static/css/main.af51d05a.chunk.css"
+    "revision": "d4c69365569c661b97c0",
+    "url": "/checkpoint-api-v10/static/css/main.917c0437.chunk.css"
   },
   {
     "revision": "3b5aab7adbfd85dfd191",
     "url": "/checkpoint-api-v10/static/css/2.ce6b8fba.chunk.css"
   },
   {
-    "revision": "80be3eb4e167d486b5ab7df37a712d45",
+    "revision": "733e62a437aa9eabdf38491b719a0f1e",
     "url": "/checkpoint-api-v10/index.html"
   }
 ];
