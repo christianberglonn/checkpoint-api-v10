@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/checkpoint-api-v10/static/css/2.ce6b8fba.chunk.css"
   },
   {
-    "revision": "3fd3113485d1b9582e1ca1a4d164dae5",
+    "revision": "198488949294285803ef29dfd29237ab",
     "url": "/checkpoint-api-v10/index.html"
   }
 ];
